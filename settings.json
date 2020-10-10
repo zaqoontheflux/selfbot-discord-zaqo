@@ -1,7 +1,7 @@
 { 
-    "token": "",
-    "prefix": "/",
-    "ID": "",
+    "token": "Put Your Token Here",
+    "prefix": "Choose Your Prefix Here",
+    "ID": "Put Your ID Here",
     "color": "#034df8",
     "discord": "zaqo#7777"
 }
