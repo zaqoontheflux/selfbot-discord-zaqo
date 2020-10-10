@@ -8,4 +8,8 @@ My selfbot has been encoded to avoid source code grabbing, my selfbot does not c
 
 For install: Download tht damn lit selfbot, do not change anything in selfbot.js or function.js just go to settings and put your token, your ID (Discord ID)
 
+For dependecies: go to visual studio terminal or da fucking terminal in ur editor and type "npm i" and after ran da shit
+
+
 The Procfile file is for Heroku so don't touch it lil hoe
+
